@@ -1,5 +1,3 @@
-lines (10 sloc)  148 Bytes
-
 version: '3'
 
 services:
